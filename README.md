@@ -129,7 +129,6 @@ plt.show()
 Thus, a single layer perceptron model is implemented using python to classify Iris data set.
 
 
-# RESULT:
- Thus, a single layer perceptron model is implemented using python to classify Iris data set.
+
 
  
